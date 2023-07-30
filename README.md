@@ -15,5 +15,5 @@ Reconstructed(level 1 db6)
 ![image](https://github.com/ArcLight079/wavelet_denoising/assets/66447808/75a6be82-c1a4-4edc-8290-bdf242bfdaf5)
 
 
-Most noticeable changes are near horizon level and clouds, which are somewhat more distinct.
+Most noticeable changes are near horizon level and clouds, which are more distinct.
 Applying higher level deconstructions yields better denoising.
